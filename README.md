@@ -154,6 +154,7 @@ The severity of actions taken will be determined by the bot administrators and m
 - blueverry._
 - yolosquid
 - fantubeceo
+- guagreal
 
 ### **Retired Staff:**
 - countryflagcarl
