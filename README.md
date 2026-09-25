@@ -10,7 +10,7 @@ Welcome to MicrostateDex Remastered, the Microstate-centered spinoff of Ballsdex
 
 ## Open source
 
-The code of MicrostateDex Remastered is privated.
+The code of MicrostateDex Remastered is privated. MicrostateDex Remastered is owned by the BallsDex team and maintained by them, with the MicrostateDex Remastered team being in direct, joint operation with them. This bot is hosted with help of the BallsDex team. This bot is kept online through BallsDex's patreon subscription.
 
 <details>
   
@@ -44,7 +44,7 @@ The code of MicrostateDex Remastered is privated.
 By using the MicrostateDex Remastered Discord bot, you agree to follow these terms and rules. If you do not agree, please refrain from using the bot. Servers are responsible for their members and access may be revoked if deemed necessary.
 
 ### **2. Bot Functionality:**
-MicrostateDex Remastered allows you to catch, collect, and trade virtual Microstates, referred to as "collectibles" in these terms. The bot's primary purpose is entertainment, and it is not intended for any real-world transactions.
+MicrostateDex Remastered allows you to catch, collect, and trade virtual Microstates, referred to as "collectibles" in these terms. The bot's primary purpose is entertainment, and it is not intended for any real-world transactions. Users may participate in battles, boss fights, and other events through the bot.
 
 ## **3. User Conduct:**
 
@@ -58,18 +58,20 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 
 ##### **Account Sharing**
 - Sharing your account with others is not allowed. Each user is responsible for the actions taken on their account.
-- Creating or using multiple accounts for the purpose of gaining an advantage (e.g., farming items or collectibles) is also prohibited. Servers must have AT LEAST 20 human members before MicrostateDex Remastered can be configured without it being considered 'farming'.
+- Creating or using multiple accounts for the purpose of gaining an advantage (e.g., farming items or collectibles) is also prohibited.
 
 ##### **Farming**
 - Abusing the spawn mechanics, such as repeatedly engaging in actions designed to force or accelerate spawns for items or collectibles, is not allowed.
 - Any behavior that disrupts the natural balance of the game mechanics to gain items or collectibles faster than normal is prohibited.
+- Creating servers for the sole purpose of gaining collectibles is strictly prohibited. Any server must have AT LEAST 20 human members before MicrostateDex Remastered can be configured without it being considered 'farming'.
 
 ##### **Staff Impersonation**
-- Impersonating MicrostateDex Remastered staff, moderators, or administrators is strictly forbidden.
+- Impersonating MicrostateDex Remastered OR BallsDex staff, moderators, or administrators is strictly forbidden.
 - This includes, but is not limited to, using similar usernames, profile pictures, or any other methods intended to deceive other users.
 
 ##### **User Behaviour**
 - Users must treat all members of the MicrostateDex Remastered community with respect. Engaging in harassment, bullying, or any form of abusive behavior is strictly prohibited.
+- Constant, unwanted pinging for things like trades, donations, and more are considered harassment, and will certainly be punished by the MicrostateDex Team, and if the harassment persists, legal action may be taken. MicrostateDex Remastered is **NOT LIABLE** for any harassment that happens.
 
 ### **4. Trading Guidelines:**
 
@@ -90,17 +92,18 @@ No other trade disputes will be honored. Users are encouraged to exercise cautio
 
 Cross-trading refers to the act of trading MicrostateDex Remastered collectibles, items, or assets for:
 
-- Items, currency, or assets that do not belong to the bot.
+- Items, currency, or assets that do not belong to the bot, such as trading with other dex bots.
 - Real-world money or financial transactions.
 - Exclusive access to a place.
 - Entrance to events or giveaways.
 - Any item or asset outside of the MicrostateDex Remastered ecosystem.
 
-Cross-trading is strictly forbidden **for any user with no exception** and will be severely punished.
+Cross-trading is strictly forbidden **for any user with no exception** and will be severely punished by not only the MicrostateDex Remastered team, but by other dex teams.
 
 ## **5. Privacy and Data:**
 - MicrostateDex Remastered collects minimal user data necessary for its functionality. We do not share this data with third parties.
 - Do not share personal information, including passwords, addresses, or financial details, through the bot.
+- If a user gets their account deleted, hacked, or suspended, they may make a ticket to transfer their old inventories to their accounts if they have necessary proof and evidence and submit their case through the [Discord server](https://discord.gg/cbcNKTDZvC) and its ticket channel.
 
 A more detailed privacy policy that details what data is collected is available at [this link](https://gist.github.com/laggron42/1eaa122013120cdfcc6d27f9485fe0bf).
 
@@ -112,6 +115,8 @@ Bot administrators and moderators have the right to enforce these rules to maint
 - Issuing warnings.
 - Temporary or permanent bans.
 - Blacklisting users from the bot or the server where the offense occurred.
+- Blacklisting servers from using the bot.
+- Transfer inventories.
 
 #### **Consequences for Rule Violations**
 - Violations involving collectible items may result in the removal of those items from the user's account, which will either be given away or transferred to one of the MicrostateDex Team member's inventory, if the blacklist is permanent and unappealable.
@@ -132,6 +137,27 @@ The severity of actions taken will be determined by the bot administrators and m
 - User related data including backups may be deleted at any time.
 - User related data including backups is non-transferable between discord accounts.
 - The MicrostateDex Remastered Team reserve the right to restrict usage of the bot or certain features to a user at any time, for any given reason.
+
+## **10. MicrostateDex Remastered Team and Their Roles:**
+ 
+### **Owners:**
+- that_one_german.000
+- randomdude.from.saturn
+- redmaw_
+- serverinviter.2
+- palkia2021
+
+### **Admins:**
+- bucky690
+
+### **Staff:**
+- blueverry._
+- yolosquid
+- fantubeceo
+
+### **Retired Staff:**
+- countryflagcarl
+- centipedeborn
 
 ## **10. Reporting Violations:**
 - If you witness any violations of these terms and rules OR BallsDex's, please report them to the bot administrators or moderators. Failure to do so may result in possible action, not limited to blacklisting.
