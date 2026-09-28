@@ -83,7 +83,11 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 
 ### **4. Trading Guidelines:**
 
-#### **4 1/5. Finality of Trades and Donations: **
+<details>
+
+<summary>Trading Guidelines</summary>
+
+#### **4 1/5. Finality of Trades and Donations:**
 - All trades (`/trade`) and donations (`/microstates give`)  are final. Once completed, they cannot be reversed except under specific circumstances outlined below.
     
 #### **4 2/5. Built-in Trade Safeguards:**
@@ -108,6 +112,8 @@ Cross-trading refers to the act of trading MicrostateDex Remastered collectibles
 
 Cross-trading is strictly forbidden **for any user with no exception** and will be severely punished by not only the MicrostateDex Remastered team, but by other dex teams.
 
+</details>
+
 ## **5. Privacy and Data:**
 
 - MicrostateDex Remastered collects minimal user data necessary for its functionality. We do not share this data with third parties.
@@ -117,6 +123,11 @@ Cross-trading is strictly forbidden **for any user with no exception** and will 
 A more detailed privacy policy that details what data is collected is available at [this link](https://gist.github.com/laggron42/1eaa122013120cdfcc6d27f9485fe0bf).
 
 ## **6. Moderation:**
+
+<details>
+
+<summary>Moderation</summary>
+
 #### **Authority of Bot Administrators and Moderators:**
 
 Bot administrators and moderators have the right to enforce these rules to maintain a fair and enjoyable environment for all users. Enforcement actions may include, but are not limited to:
@@ -138,6 +149,8 @@ Bot administrators and moderators have the right to enforce these rules to maint
 - The severity of actions taken will be determined by the bot administrators and moderators based on the nature and impact of the violation.
 - Depending on the actions, the MicrostateDex Remastered Team may get involved with other dex owners, for cases such as cross-trading.
 
+</details>
+
 ## **7. Changes to Terms and Rules:**
 - The terms of service and rules might be updated at any time. Users will be notified of changes through either BallsDex's [Discord server](https://discord.gg/HmSMT4WKKV) OR [MicrostateDex Remastered's Discord server](https://discord.gg/cbcNKTDZvC)'s announcements channels, and continued use of the bot will imply agreement to the modified terms.
 
@@ -151,7 +164,11 @@ Bot administrators and moderators have the right to enforce these rules to maint
 - The MicrostateDex Remastered Team reserve the right to restrict usage of the bot or certain features to a user at any time, for any given reason.
 
 ## **10. MicrostateDex Remastered Team and Their Roles:**
- 
+
+<details>
+
+<summary>MicrostateDex Remastered Team and Their Roles</summary>
+
 ### **10 1/5. Owners:**
 - that_one_german.000
 - randomdude.from.saturn
@@ -172,6 +189,8 @@ Bot administrators and moderators have the right to enforce these rules to maint
 - countryflagcarl
 - centipedeborn
 
+</details>
+
 ## **11. Reporting Violations:**
 - If you witness any violations of these terms and rules OR BallsDex's, please report them to the bot administrators or moderators. Failure to do so may result in possible action, not limited to blacklisting.
 
@@ -179,7 +198,7 @@ Bot administrators and moderators have the right to enforce these rules to maint
 
 <hr>
 
-## Contesting a sanction:
+## **12. Contesting a Sanction:**
 
 If you want a re-evaluation of your case, you may do so by submitting a ticket in the [Discord server](https://discord.gg/cbcNKTDZvC) (#⁠open-a-ticket channel) or sending an email to contact (at) Microstatedexremastered (dot) com. You must follow these rules:
 
@@ -190,7 +209,7 @@ If you want a re-evaluation of your case, you may do so by submitting a ticket i
 
 The MicrostateDex Remastered moderation team has the right to accept, deny or ignore any request, with or without reason. You may not be notified about the decision of the team. The availability of the appeals, including the Google Forms, is not guaranteed.
 
-## Contact:
+## **13. Contact:**
 
 You may contact us using the following means:
 
