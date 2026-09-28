@@ -52,6 +52,8 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 
 <details>
 
+<summary>User Conduct</summary>
+
 ##### **3 1/7. Cheating and Unfair Advantage**
 - The use of third-party tools, exploits, macros, bots, or any other method to gain an unfair advantage is strictly prohibited.
 - Any attempts to modify or manipulate the game mechanics to bypass intended gameplay are considered cheating.
