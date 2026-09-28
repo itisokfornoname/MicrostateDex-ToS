@@ -48,9 +48,9 @@ By using the MicrostateDex Remastered Discord bot, you agree to follow these ter
 ### **2. Bot Functionality:**
 MicrostateDex Remastered allows you to catch, collect, and trade virtual Microstates, referred to as "collectibles" in these terms. The bot's primary purpose is entertainment, and it is not intended for any real-world transactions. Users may participate in battles, boss fights, and other events through the bot.
 
-<details>
-
 ## **3. User Conduct:**
+
+<details>
 
 ##### **3 1/7. Cheating and Unfair Advantage**
 - The use of third-party tools, exploits, macros, bots, or any other method to gain an unfair advantage is strictly prohibited.
