@@ -137,7 +137,7 @@ Bot administrators and moderators have the right to enforce these rules to maint
 - Blacklisting users from the bot or the server where the offense occurred.
 - Blacklisting servers from using the bot.
 - Transferring inventories.
-- Confiscating Microstated at any given time.
+- Confiscating Microstates at any given time.
 - Blacklisting users from certain MicrostateDex server abilities, such as tickets, forums, or artwork blacklists.
 
 #### **6 1/3. Consequences for Rule Violations:**
