@@ -9,6 +9,7 @@ Welcome to MicrostateDex Remastered, the Microstate-centered spinoff of Ballsdex
 - Staff: Discord users possessing the staff status on the official Discord server: Support, Moderator, MicrostateDex Remastered Team, Trial staff.
 - Exceptional Scam: A scam in which the total value lost to the scam was 2t1 or higher.
 - T1: A tier/top one Microstate on the MicrostateDex Remastered Value List with exceptional value and scarce spawn rates.
+- Microbox(es): A crate-like feature in MicrostateDex Remastered that grants randomized Microstates upon opening.
 
 ## Open source:
 
@@ -65,6 +66,9 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 ##### **3 3/7. Account Sharing**
 - Sharing your account with others is not allowed. Each user is responsible for the actions taken on their account.
 - Creating or using multiple accounts for the purpose of gaining an advantage (e.g., farming items or collectibles) is also prohibited.
+- Creating or using alternate accounts for microboxes is strictly prohibited.
+- Creating or using alternate accounts to evade a blacklist will result in the blacklist becoming permanent and the confiscation of your inventory.
+- Using an alternate account to store microstates is allowed, as long as you are not blacklisted.
 
 ##### **3 4/7. Farming:**
 - Abusing the spawn mechanics, such as repeatedly engaging in actions designed to force or accelerate spawns for items or collectibles, is not allowed.
