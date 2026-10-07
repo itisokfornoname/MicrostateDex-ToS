@@ -218,3 +218,7 @@ The MicrostateDex Remastered moderation team has the right to accept, deny or ig
 You may contact us using the following means:
 
 - The [Discord server](https://discord.gg/cbcNKTDZvC) through tickets (#open-a-ticket channel)
+
+#### Next:
+
+- The [Privacy Policy](https://github.com/itisokfornoname/MicrostateDex-Privacy-Policy) for MicrostateDex Remastered.
