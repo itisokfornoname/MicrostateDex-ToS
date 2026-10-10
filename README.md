@@ -193,7 +193,7 @@ Bot administrators and moderators have the right to enforce these rules to maint
 - countryflagcarl
 - centipedeborn
 
-## **10 5/6. Art Content Team:**
+### **10 5/6. Art Content Team:**
 - reddys_3
 
 </details>
