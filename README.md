@@ -114,7 +114,7 @@ Cross-trading refers to the act of trading MicrostateDex Remastered collectibles
 - Entrance to events or giveaways.
 - Any item or asset outside of the MicrostateDex Remastered ecosystem.
 
-Cross-trading is strictly forbidden **for any user with no exception** and will be severely punished by not only the MicrostateDex Remastered team, but by other dex teams.
+#### Cross-trading is strictly forbidden **for any user with no exception** and will be severely punished by not only the MicrostateDex Remastered Team, but by other dex teams.
 
 </details>
 
@@ -132,7 +132,7 @@ A more detailed privacy policy that details what data is collected is available 
 
 <summary>Moderation</summary>
 
-#### **Authority of Bot Administrators and Moderators:**
+#### **6 1/4. Authority of Bot Administrators and Moderators:**
 
 Bot administrators and moderators have the right to enforce these rules to maintain a fair and enjoyable environment for all users. Enforcement actions may include, but are not limited to:
     
@@ -144,14 +144,15 @@ Bot administrators and moderators have the right to enforce these rules to maint
 - Confiscating Microstates at any given time.
 - Blacklisting users from certain MicrostateDex server abilities, such as tickets, forums, or artwork blacklists.
 
-#### **6 1/3. Consequences for Rule Violations:**
+#### **6 2/4. Consequences for Rule Violations:**
 - Violations involving collectible items may result in the removal of those items from the user's account, which will either be given away or transferred to one of the MicrostateDex Team member's inventory, if the blacklist is permanent and unappealable.
 - Severe or repeated offenses can lead to broader restrictions, including bans from using the bot entirely.
 
-#### **6 2/3. Discretion of Enforcement:**
+#### **6 3/4. Discretion of Enforcement:**
 
 - The severity of actions taken will be determined by the bot administrators and moderators based on the nature and impact of the violation.
 - Depending on the actions, the MicrostateDex Remastered Team may get involved with other dex owners, for cases such as cross-trading.
+- MicrostateDex Remastered may sometimes blacklist users for their offenses in other dexes. These can always be appealed, and rarely gets people punished. Punishment depends on the offense committed.
 
 </details>
 
