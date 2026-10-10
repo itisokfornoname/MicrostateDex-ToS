@@ -173,25 +173,28 @@ Bot administrators and moderators have the right to enforce these rules to maint
 
 <summary>MicrostateDex Remastered Team and Their Roles</summary>
 
-### **10 1/5. Owners:**
+### **10 1/6. Owners:**
 - that_one_german.000
 - randomdude.from.saturn
 - redmaw_
 - serverinviter.2
 - palkia2021
 
-### **10 2/5. Admins:**
+### **10 2/6. Admins:**
 - bucky690
 
-### **10 3/5. Staff:**
+### **10 3/6. Staff:**
 - blueverry._
 - yolosquid
 - fantubeceo
 - guagreal
 
-### **10 4/5. Retired Staff:**
+### **10 4/6. Retired Staff:**
 - countryflagcarl
 - centipedeborn
+
+## **10 5/6. Art Content Team:**
+- reddys_3
 
 </details>
 
