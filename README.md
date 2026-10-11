@@ -82,6 +82,9 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 ##### **3 6/7. User Behavior:**
 - Users must treat all members of the MicrostateDex Remastered community with respect. Engaging in harassment, bullying, or any form of abusive behavior is strictly prohibited.
 - Constant, unwanted pinging for things like trades, donations, and more are considered harassment, and will certainly be punished by the MicrostateDex Team, and if the harassment persists, legal action may be taken. MicrostateDex Remastered is **NOT LIABLE** for any harassment that happens.
+- Betting on non-MicrostateDex Remastered-related things is prohibited *UNLESS* if one of the owners permits it.
+- Betting on battles is allowed.
+- Gambling in the main server is prohibited.
 
 </details>
 
@@ -112,7 +115,7 @@ Cross-trading refers to the act of trading MicrostateDex Remastered collectibles
 - Items, currency, or assets that do not belong to the bot, such as trading with other dex bots.
 - Real-world money or financial transactions.
 - Exclusive access to a place.
-- Entrance to events or giveaways.
+- Entrance to events or giveaways, such as raffle tickets.
 - Any item or asset outside of the MicrostateDex Remastered ecosystem.
 
 #### Cross-trading is strictly forbidden **for any user with no exception** and will be severely punished by not only the MicrostateDex Remastered Team, but by other dex teams.
