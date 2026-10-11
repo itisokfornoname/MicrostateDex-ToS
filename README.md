@@ -92,6 +92,7 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 <summary>Trading Guidelines</summary>
 
 #### **4 1/5. Finality of Trades and Donations:**
+- To prevent scams from happening, be sure to use the [Official MicrostateDex Remastered Trading Value List](https://docs.google.com/spreadsheets/d/1-mT06Iwz3pI_jmKFdI5yffxIdYeWetjlbalWT1ZaVFo/edit?usp=drivesdk). This is the only one. If anyone else sends you a false list, do not listen to it. This is the only certified, official list.
 - All trades (`/trade`) and donations (`/microstates give`)  are final. Once completed, they cannot be reversed except under specific circumstances outlined below.
     
 #### **4 2/5. Built-in Trade Safeguards:**
