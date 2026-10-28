@@ -221,7 +221,16 @@ If you want a re-evaluation of your case, you may do so by submitting a ticket i
 
 The MicrostateDex Remastered moderation team has the right to accept, deny or ignore any request, with or without reason. You may not be notified about the decision of the team. The availability of the appeals, including the Google Forms, is not guaranteed.
 
-## **13. Contact:**
+## **13. Special Thanks:**
+
+### Special thanks goes out to our artwork contributors and supporters, both current and former, for helping MicrostateDex getting to where it is now!
+
+#### Supporters:
+
+- luna_712
+- kirbillyobjectshowfan
+
+## **14. Contact:**
 
 You may contact us using the following means:
 
