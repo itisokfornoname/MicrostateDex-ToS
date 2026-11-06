@@ -192,11 +192,11 @@ Bot administrators and moderators have the right to enforce these rules to maint
 - blueverry._
 - yolosquid
 - fantubeceo
-- guagreal
 
 ### **10 4/6. Retired Staff:**
 - countryflagcarl
 - centipedeborn
+- guagreal
 
 ### **10 5/6. Art Content Team:**
 - reddys_3
