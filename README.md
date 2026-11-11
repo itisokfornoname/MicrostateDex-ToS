@@ -105,8 +105,12 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 - Trades can only be reversed under the following conditions, with staff discretion.
   - **Staff Impersonation:** If a user falsely claims to be staff and uses this to coerce a trade.
   - **Exceptional Scam:** If the trade is considered to be an 'exceptional scam' by the MicrostateDex Remastered team, the trade will be reversed and the scammer will receive punishments. Only applies for trades, not donations.
+  - Scam tickets follow the values of the Microstates at the time of the trade, and not current values.
+  - Scam tickets can only be issued up to 1 momth after the scam took place.
+  - Forged scam tickets may result in the assailant(s) being permanently blacklisted from the bot, and the victim may be rewarded with their inventories.
 
 **No other trade disputes will be honored. Users are encouraged to exercise caution and verify all details before confirming trades.**
+**These tickers are handled very seriously. Abuse of these tickets will result in a permanent ticket blacklist.**
 
 #### **4 4/5. Cross Trading:**
 
