@@ -43,43 +43,60 @@ The code of MicrostateDex Remastered is privated. MicrostateDex Remastered is ow
 
 </details>
 
-### **1. Usage Agreement:**
+### **1. Disclaimers:**
+
+- MicrostateDex Remastered follows Discord's official Terms of Service.
+- The minumum age limit of MicrostateDex Remastered is 13, as is Discord's minimum age limit. The player must be 13 or older to use MicrostateDex Remastered without consequences enforced by Discord's strict age limit.
+- MicrostateDex Remastered may or does contain:
+  - Blood & gore.
+  - Disturbing images.
+  - Profanity & crude language.
+  - Offensive symbols. (such as Swastikas)
+  - Possibly sensitive historical references.
+  - Dark/offensive humor.
+  - Sensitive topics.
+- All actions are overseen by itisokfornoname. Users may report any instances of these rules being broken to the MicrostateDex Remastered team, or if it is a violation of Discord's rules, report to Discord through the built-in report system Discord has.
+- Players are not entitled to free Microstates/Microboxes given by the MicrostateDex Remastered team.
+- Not all MicrostateDex Remastered (and Discord) violations have the same punishment, as punishment depends on the severity of the violation.
+
+
+### **2. Usage Agreement:**
 By using the MicrostateDex Remastered Discord bot, you agree to follow these terms and rules. If you do not agree, please refrain from using the bot. Servers are responsible for their members and access may be revoked if deemed necessary.
 
-### **2. Bot Functionality:**
+### **3. Bot Functionality:**
 MicrostateDex Remastered allows you to catch, collect, and trade virtual Microstates, referred to as "collectibles" in these terms. The bot's primary purpose is entertainment, and it is not intended for any real-world transactions. Users may participate in battles, boss fights, and other events through the bot.
 
-## **3. User Conduct:**
+## **4. User Conduct:**
 
 <details>
 
 <summary>User Conduct</summary>
 
-##### **3 1/7. Cheating and Unfair Advantage**
+##### **4 1/7. Cheating and Unfair Advantage**
 - The use of third-party tools, exploits, macros, bots, or any other method to gain an unfair advantage is strictly prohibited.
 - Any attempts to modify or manipulate the game mechanics to bypass intended gameplay are considered cheating.
 
-##### **3 2/7. Exploits and Bugs**
+##### **4 2/7. Exploits and Bugs**
 - If you discover a bug or exploit, you are required to report it to the MicrostateDex Remastered team immediately.
 - Using known exploits or bugs for personal gain is prohibited and will be penalized.
 
-##### **3 3/7. Account Sharing**
+##### **4 3/7. Account Sharing**
 - Sharing your account with others is not allowed. Each user is responsible for the actions taken on their account.
 - Creating or using multiple accounts for the purpose of gaining an advantage (e.g., farming items or collectibles) is also prohibited.
 - Creating or using alternate accounts for microboxes is strictly prohibited.
 - Creating or using alternate accounts to evade a blacklist will result in the blacklist becoming permanent and the confiscation of your inventory.
 - Using an alternate account to store microstates is allowed, as long as you are not blacklisted.
 
-##### **3 4/7. Farming:**
+##### **4 4/7. Farming:**
 - Abusing the spawn mechanics, such as repeatedly engaging in actions designed to force or accelerate spawns for items or collectibles, is not allowed.
 - Any behavior that disrupts the natural balance of the game mechanics to gain items or collectibles faster than normal is prohibited.
 - Creating servers for the sole purpose of gaining collectibles is strictly prohibited. Any server must have AT LEAST 20 human members before MicrostateDex Remastered can be configured without it being considered 'farming'.
 
-##### **3 5/7. Staff Impersonation:**
+##### **4 5/7. Staff Impersonation:**
 - Impersonating MicrostateDex Remastered OR BallsDex staff, moderators, or administrators is strictly forbidden.
 - This includes, but is not limited to, using similar usernames, profile pictures, or any other methods intended to deceive other users.
 
-##### **3 6/7. User Behavior:**
+##### **4 6/7. User Behavior:**
 - Users must treat all members of the MicrostateDex Remastered community with respect. Engaging in harassment, bullying, or any form of abusive behavior is strictly prohibited.
 - Constant, unwanted pinging for things like trades, donations, and more are considered harassment, and will certainly be punished by the MicrostateDex Team, and if the harassment persists, legal action may be taken. MicrostateDex Remastered is **NOT LIABLE** for any harassment that happens.
 - Betting on non-MicrostateDex Remastered-related things is prohibited *UNLESS* if one of the owners permits it.
@@ -88,20 +105,20 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 
 </details>
 
-### **4. Trading Guidelines:**
+### **5. Trading Guidelines:**
 
 <details>
 
 <summary>Trading Guidelines</summary>
 
-#### **4 1/5. Finality of Trades and Donations:**
+#### **5 1/5. Finality of Trades and Donations:**
 - To prevent scams from happening, be sure to use the [Official MicrostateDex Remastered Trading Value List](https://docs.google.com/spreadsheets/d/1-mT06Iwz3pI_jmKFdI5yffxIdYeWetjlbalWT1ZaVFo/edit?usp=drivesdk). This is the only one. If anyone else sends you a false list, do not listen to it. This is the only certified, official list.
 - All trades (`/trade`) and donations (`/microstates give`)  are final. Once completed, they cannot be reversed except under specific circumstances outlined below.
     
-#### **4 2/5. Built-in Trade Safeguards:**
+#### **5 2/5. Built-in Trade Safeguards:**
 - The trading system includes a **lock and confirm** mechanism, along with a timer, to ensure all parties have adequate time to review and verify the details of the trade. Users are responsible for double-checking all trade details before confirming.
     
-#### **4 3/5. Reversal of Trades:**
+#### **5 3/5. Reversal of Trades:**
 - Trades can only be reversed under the following conditions, with staff discretion.
   - **Staff Impersonation:** If a user falsely claims to be staff and uses this to coerce a trade.
   - **Exceptional Scam:** If the trade is considered to be an 'exceptional scam' by the MicrostateDex Remastered team, the trade will be reversed and the scammer will receive punishments. Only applies for trades, not donations.
@@ -112,7 +129,7 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 **No other trade disputes will be honored. Users are encouraged to exercise caution and verify all details before confirming trades.**
 **These tickers are handled very seriously. Abuse of these tickets will result in a permanent ticket blacklist.**
 
-#### **4 4/5. Cross Trading:**
+#### **5 4/5. Cross Trading:**
 
 Cross-trading refers to the act of trading MicrostateDex Remastered collectibles, items, or assets for:
 
@@ -126,7 +143,7 @@ Cross-trading refers to the act of trading MicrostateDex Remastered collectibles
 
 </details>
 
-## **5. Privacy and Data:**
+## **6. Privacy and Data:**
 
 - MicrostateDex Remastered collects minimal user data necessary for its functionality. We do not share this data with third parties.
 - Do not share personal information, including passwords, addresses, or financial details, through the bot.
@@ -136,24 +153,24 @@ Cross-trading refers to the act of trading MicrostateDex Remastered collectibles
 
 A more detailed privacy policy that details what data is collected is available at [this link](https://gist.github.com/laggron42/1eaa122013120cdfcc6d27f9485fe0bf).
 
-## **6. Moderation:**
+## **7. Moderation:**
 
 <details>
 
 <summary>Moderation</summary>
 
-#### **6 1/4. Authority of Bot Administrators and Moderators:**
+#### **7 1/4. Authority of Bot Administrators and Moderators:**
 
 **Bot administrators and moderators have the right to enforce these rules to maintain a fair and enjoyable environment for all users. Enforcement actions may include, but are not limited to:**
 
-##### **6 1/4 1/4. Moderators + Administrators + Core Developers:**
+##### **7 1/4 1/4. Moderators + Administrators + Core Developers:**
 
 - **Issuing warnings.**
 - **Temporary or permanent bans.**
 - **Blacklisting users from the bot.**
 - **Blacklisting servers from using the bot.**
 
-##### **6 1/4 2/4. Administrators + Core Developers:**
+##### **7 1/4 2/4. Administrators + Core Developers:**
 
 - Issuing warnings.
 - Temporary or permanent bans.
@@ -161,7 +178,7 @@ A more detailed privacy policy that details what data is collected is available 
 - Blacklisting servers from using the bot.
 - **Blacklisting users from certain MicrostateDex server abilities, such as tickets, forums, or artwork blacklists.**
 
-##### **6 1/4 3/4. Core Developers:**
+##### **7 1/4 3/4. Core Developers:**
 
 - Issuing warnings.
 - Temporary or permanent bans.
@@ -174,69 +191,70 @@ A more detailed privacy policy that details what data is collected is available 
 - **Deleting intentories.**
 - **Deleting prestige inventories.**
 
-#### **6 2/4. Consequences for Rule Violations:**
+#### **7 2/4. Consequences for Rule Violations:**
 - Violations involving collectible items may result in the removal of those items from the user's account, which will either be given away or transferred to one of the MicrostateDex Team member's inventory, if the blacklist is permanent and unappealable.
 - Severe or repeated offenses can lead to broader restrictions, including bans from using the bot entirely.
 
-#### **6 3/4. Discretion of Enforcement:**
+#### **7 3/4. Discretion of Enforcement:**
 
 - The severity of actions taken will be determined by the bot administrators and moderators based on the nature and impact of the violation.
 - Depending on the actions, the MicrostateDex Remastered Team may get involved with other dex owners, for cases such as cross-trading.
 - MicrostateDex Remastered may sometimes blacklist users for their offenses in other dexes. These can always be appealed, and rarely gets people punished. Punishment depends on the offense committed.
+- If the case is major and violates Discord's own rules, action will be taken by both the MicrostateDex Remastered team and Discord's official staff.
 
 </details>
 
-## **7. Changes to Terms and Rules:**
+## **8. Changes to Terms and Rules:**
 - The terms of service and rules might be updated at any time. Users will be notified of changes through either BallsDex's [Discord server](https://discord.gg/HmSMT4WKKV) OR [MicrostateDex Remastered's Discord server](https://discord.gg/cbcNKTDZvC)'s announcements channels, and continued use of the bot will imply agreement to the modified terms.
 
-## **8. Liability:**
+## **9. Liability:**
 - The MicrostateDex Remastered team is not responsible for any loss, damage, or inconvenience caused by the use of the bot. Use the bot at your own risk.
 
-## **9. Availability:**
+## **10. Availability:**
 - MicrostateDex Remastered is provided as-is. There are no guarantees that it will be available in the future, and its purpose or availability may be changed at any time.
 - User related data including backups may be deleted at any time.
 - User related data including backups is non-transferable between discord accounts.
 - The MicrostateDex Remastered Team reserve the right to restrict usage of the bot or certain features to a user at any time, for any given reason.
 
-## **10. MicrostateDex Remastered Team and Their Roles:**
+## **11. MicrostateDex Remastered Team and Their Roles:**
 
 <details>
 
 <summary>MicrostateDex Remastered Team and Their Roles</summary>
 
-### **10 1/6. Owners:**
-- that_one_german.000
+### **11 1/6. Owners:**
+- itisokfornoname
 - randomdude.from.saturn
 - redmaw_
 - serverinviter.2
 - palkia2021
 
-### **10 2/6. Admins:**
+### **11 2/6. Admins:**
 - bucky690
 
-### **10 3/6. Staff:**
+### **11 3/6. Staff:**
 - blueverry._
 - yolosquid
 - fantubeceo
 
-### **10 4/6. Retired Staff:**
+### **11 4/6. Retired Staff:**
 - countryflagcarl
 - centipedeborn
 - guagreal
 
-### **10 5/6. Art Content Team:**
+### **11 5/6. Art Content Team:**
 - reddys_3
 
 </details>
 
-## **11. Reporting Violations:**
+## **12. Reporting Violations:**
 - If you witness any violations of these terms and rules OR BallsDex's, please report them to the bot administrators or moderators. Failure to do so may result in possible action, not limited to blacklisting.
 
 #### By using MicrostateDex Remastered, you agree to abide by these terms and rules. Failure to comply with these rules may result in warnings, temporary or permanent bans, or other appropriate actions determined by the bot administrators and moderators. Remember that MicrostateDex Remastered is meant to be a fun and engaging experience for everyone. Enjoy catching and trading Microstates responsibly!
 
 <hr>
 
-## **12. Contesting a Sanction:**
+## **13. Contesting a Sanction:**
 
 If you want a re-evaluation of your case, you may do so by submitting a ticket in the [Discord server](https://discord.gg/cbcNKTDZvC) (#⁠open-a-ticket channel) or sending an email to contact (at) Microstatedexremastered (dot) com. You must follow these rules:
 
@@ -247,7 +265,7 @@ If you want a re-evaluation of your case, you may do so by submitting a ticket i
 
 The MicrostateDex Remastered moderation team has the right to accept, deny or ignore any request, with or without reason. You may not be notified about the decision of the team. The availability of the appeals, including the Google Forms, is not guaranteed.
 
-## **13. Special Thanks:**
+## **14. Special Thanks:**
 
 ### Special thanks goes out to our artwork contributors and supporters, both current and former, for helping MicrostateDex getting to where it is now!
 
@@ -256,7 +274,7 @@ The MicrostateDex Remastered moderation team has the right to accept, deny or ig
 - luna_712
 - kirbillyobjectshowfan
 
-## **14. Contact:**
+## **15. Contact:**
 
 You may contact us using the following means:
 
