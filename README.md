@@ -10,6 +10,7 @@ Welcome to MicrostateDex Remastered, the Microstate-centered spinoff of Ballsdex
 - Exceptional Scam: A scam in which the total value lost to the scam was 2t1 or higher.
 - T1: A tier/top one Microstate on the MicrostateDex Remastered Value List with exceptional value and scarce spawn rates.
 - Microbox(es): A crate-like feature in MicrostateDex Remastered that grants randomized Microstates upon opening.
+- Micromark(s): The currency of MicrostateDex Remastered, which can be used for trading, buying Microstates, items, and more.
 
 ## Open source:
 
@@ -76,6 +77,9 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 ##### **4 1/7. Cheating and Unfair Advantage**
 - The use of third-party tools, exploits, macros, bots, or any other method to gain an unfair advantage is strictly prohibited.
 - Any attempts to modify or manipulate the game mechanics to bypass intended gameplay are considered cheating.
+- Using built-in, customizable keyboard replacement autocorrect is not allowed.
+  - Example: if you type in 'BR' and it replaces to 'Barbaria' is not allowed.
+- Using copy + paste is not allowed.
 
 ##### **4 2/7. Exploits and Bugs**
 - If you discover a bug or exploit, you are required to report it to the MicrostateDex Remastered team immediately.
@@ -103,6 +107,8 @@ MicrostateDex Remastered allows you to catch, collect, and trade virtual Microst
 - Betting on non-MicrostateDex Remastered-related things is prohibited *UNLESS* if one of the owners permits it.
 - Betting on battles is allowed.
 - Gambling in the main server is prohibited.
+- Betting Micromarks is allowed under any circumstances.
+- Gambling Micromarks is allowed *ONLY IF* what is being gambled for is related to MicrostateDex Remastered.
 
 </details>
 
@@ -137,8 +143,10 @@ Cross-trading refers to the act of trading MicrostateDex Remastered collectibles
 - Items, currency, or assets that do not belong to the bot, such as trading with other dex bots.
 - Real-world money or financial transactions.
 - Exclusive access to a place.
-- Entrance to events or giveaways, such as raffle tickets.
+- Entrance to events or giveaways, such as raffle tickets or entry fees.
+  - It is only permitted when Micromarks are used as entry fees for giveaways, but it must not exceed 25 Micromarks. Requiring Microstates as entry fees is not permitted.
 - Any item or asset outside of the MicrostateDex Remastered ecosystem.
+- Trading Microstates for Micromarks is *NOT* considered cross trading.
 
 #### Cross-trading is strictly forbidden **for any user with no exception** and will be severely punished by not only the MicrostateDex Remastered Team, but by other dex teams.
 
@@ -186,11 +194,19 @@ A more detailed privacy policy that details what data is collected is available 
 - Blacklisting users from the bot.
 - Blacklisting servers from using the bot.
 - Blacklisting users from certain MicrostateDex server abilities, such as tickets, forums, or artwork blacklists.
+- **Transferring specific Microstates.**
 - **Transferring inventories.**
 - **Transferring prestige inventories.**
+- **Transferring Micromark balances.**
+- **Transferring Microbox inventories.**
 - **Confiscating Microstates at any given time.**
+- **Confiscating Micromarks at any given time.**
+- **Confiscating Microboxes at any given time.**
+- **Deleting Microstates.**
 - **Deleting intentories.**
 - **Deleting prestige inventories.**
+- **Deleting Micromarks.**
+- **Deleting Microboxes.**
 
 #### **7 2/4. Consequences for Rule Violations:**
 - Violations involving collectible items may result in the removal of those items from the user's account, which will either be given away or transferred to one of the MicrostateDex Team member's inventory, if the blacklist is permanent and unappealable.
