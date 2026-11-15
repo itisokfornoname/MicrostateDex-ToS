@@ -54,6 +54,7 @@ The code of MicrostateDex Remastered is privated. MicrostateDex Remastered is ow
   - Offensive symbols. (such as Swastikas)
   - Possibly sensitive historical references.
   - Dark/offensive humor.
+  - Possibly sexual humor/innuendoes.
   - Sensitive topics.
 - All actions are overseen by itisokfornoname. Users may report any instances of these rules being broken to the MicrostateDex Remastered team, or if it is a violation of Discord's rules, report to Discord through the built-in report system Discord has.
 - Players are not entitled to free Microstates/Microboxes given by the MicrostateDex Remastered team.
