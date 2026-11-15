@@ -5,7 +5,7 @@ Welcome to MicrostateDex Remastered, the Microstate-centered spinoff of Ballsdex
 ## Glossary:
 
 - Collectible: Any virtual object that is meant to be collected through the bot, such as Microstates or other means like virtual currency.
-- MicrostateDex Remastered team: The administrators of MicrostateDex Remastered, possessing the "MicrostateDex Remastered Team" role on the official Discord server. They have full control over the bot.
+- MicrostateDex Remastered team: The core developers & developers of MicrostateDex Remastered, possessing any/all of the "Core Developer Team" or the "Developer Team" roles on the official Discord server. They have full control over the bot.
 - Staff: Discord users possessing the staff status on the official Discord server: Support, Moderator, MicrostateDex Remastered Team, Trial staff.
 - Exceptional Scam: A scam in which the total value lost to the scam was 2t1 or higher.
 - T1: A tier/top one Microstate on the MicrostateDex Remastered Value List with exceptional value and scarce spawn rates.
@@ -222,27 +222,29 @@ A more detailed privacy policy that details what data is collected is available 
 
 <summary>MicrostateDex Remastered Team and Their Roles</summary>
 
-### **11 1/6. Owners:**
+### **11 1/7. Core Developer Team:**
 - itisokfornoname
 - randomdude.from.saturn
 - redmaw_
 - serverinviter.2
 - palkia2021
 
-### **11 2/6. Admins:**
+### **11 2/7. Developers:**
 - bucky690
 
-### **11 3/6. Staff:**
+### 11 3/7. Administrators:**
+
+### **11 4/7. Staff:**
 - blueverry._
 - yolosquid
 - fantubeceo
 
-### **11 4/6. Retired Staff:**
+### **11 5/7. Retired Staff:**
 - countryflagcarl
 - centipedeborn
 - guagreal
 
-### **11 5/6. Art Content Team:**
+### **11 6/7. Art Content Team:**
 - reddys_3
 
 </details>
