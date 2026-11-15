@@ -131,6 +131,8 @@ Cross-trading refers to the act of trading MicrostateDex Remastered collectibles
 - MicrostateDex Remastered collects minimal user data necessary for its functionality. We do not share this data with third parties.
 - Do not share personal information, including passwords, addresses, or financial details, through the bot.
 - If a user gets their account deleted, hacked, or suspended, they may make a ticket to transfer their old inventories to their accounts if they have necessary proof and evidence and submit their case through the [Discord server](https://discord.gg/cbcNKTDZvC) and its ticket channel.
+- All inventories of useds who have prestiged are kept safe. If anything were to happen to them, heavy compensation involving in-game rewards may be given.
+- Users cannot access their prestiged inventories until they hit 100% completion and have made a ticket proving that they have reached the necessary percentage.
 
 A more detailed privacy policy that details what data is collected is available at [this link](https://gist.github.com/laggron42/1eaa122013120cdfcc6d27f9485fe0bf).
 
@@ -142,15 +144,35 @@ A more detailed privacy policy that details what data is collected is available 
 
 #### **6 1/4. Authority of Bot Administrators and Moderators:**
 
-Bot administrators and moderators have the right to enforce these rules to maintain a fair and enjoyable environment for all users. Enforcement actions may include, but are not limited to:
-    
+**Bot administrators and moderators have the right to enforce these rules to maintain a fair and enjoyable environment for all users. Enforcement actions may include, but are not limited to:**
+
+##### **6 1/4 1/4. Moderators + Administrators + Core Developers:**
+
+- **Issuing warnings.**
+- **Temporary or permanent bans.**
+- **Blacklisting users from the bot.**
+- **Blacklisting servers from using the bot.**
+
+##### **6 1/4 2/4. Administrators + Core Developers:**
+
 - Issuing warnings.
 - Temporary or permanent bans.
-- Blacklisting users from the bot or the server where the offense occurred.
+- Blacklisting users from the bot.
 - Blacklisting servers from using the bot.
-- Transferring inventories.
-- Confiscating Microstates at any given time.
+- **Blacklisting users from certain MicrostateDex server abilities, such as tickets, forums, or artwork blacklists.**
+
+##### **6 1/4 3/4. Core Developers:**
+
+- Issuing warnings.
+- Temporary or permanent bans.
+- Blacklisting users from the bot.
+- Blacklisting servers from using the bot.
 - Blacklisting users from certain MicrostateDex server abilities, such as tickets, forums, or artwork blacklists.
+- **Transferring inventories.**
+- **Transferring prestige inventories.**
+- **Confiscating Microstates at any given time.**
+- **Deleting intentories.**
+- **Deleting prestige inventories.**
 
 #### **6 2/4. Consequences for Rule Violations:**
 - Violations involving collectible items may result in the removal of those items from the user's account, which will either be given away or transferred to one of the MicrostateDex Team member's inventory, if the blacklist is permanent and unappealable.
